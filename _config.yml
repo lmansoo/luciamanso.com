@@ -14,7 +14,7 @@ description              : &description "PhD candidate"
 url                      : https://lmansoo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://lmansoo.github.io/luciamanso.github.io/"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "profilepic.jpeg" 
+teaser                   : "profilepic.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "profilepic.jpeg" 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -87,7 +87,7 @@ author:
   employer         : "BCBL"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Manso-Ortega+L&cauthor_id=35593038"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "l.manso@bcbl.eu"
   researchgate     : #""
   uri              :
   bitbucket        :
