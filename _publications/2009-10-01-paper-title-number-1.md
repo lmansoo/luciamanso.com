@@ -6,6 +6,7 @@ excerpt: 'This paper is about the lack of neuropsychologists and speech therapis
 date: 2022-05-20
 venue: 'Psycho-Oncology'
 paperurl: 'http://lmansoo.github.io/files/Highlighting.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 
 ---
 
