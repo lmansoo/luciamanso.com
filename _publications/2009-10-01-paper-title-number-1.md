@@ -6,7 +6,7 @@ excerpt: 'This paper is about the lack of neuropsychologists and speech therapis
 date: 2022-05-20
 venue: 'Psycho-Oncology'
 paperurl: 'http://lmansoo.github.io/files/Highlighting.pdf'
-citation: Manso-Ortega, L, Bermudez, G, Pomposo, I, et al. Highlighting the lack of neuropsychologists and speech therapists in healthcare services towards an accurate (pre- and postoperative) cognitive assessment in low-grade glioma patients. Psychooncology. 2022; 31( 7): 1261- 1263. https://doi.org/10.1002/pon.5968
+
 ---
 
 Key points of the paper: 
