@@ -1,7 +1,7 @@
 ---
 title: "Highlighting the lack of neuropsychologists and speech therapists in healthcare services towards an accurate (pre- and postoperative) cognitive assessment in low-grade glioma patients"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/highlighting
 excerpt: 'This paper is about the lack of neuropsychologists and speech therapists in healthcare facilities treating low grade glioma patients'
 date: 2022-05-20
 venue: 'Psycho-Oncology'
