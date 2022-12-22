@@ -8,8 +8,19 @@ venue: 'Psycho-Oncology'
 paperurl: '[[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1002/pon.5968)](https://onlinelibrary.wiley.com/doi/10.1002/pon.5968)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+Key points of the paper: 
+
+Due to the slow growth of Low-grade gliomas (LGGs), cognitive impairments can be quite difficult to detect at early stages
+
+There is a lack of staff specialized on the cognitive and emotional assessment of patients, such as neuropsychologists and speech therapists
+
+Brain tumor patients are often misclassified as asymptomatic at the moment of diagnosis
+
+An accurate and individually-designed assessment of their cognitive status can significantly improve the treatment strategy for each patient, allowing long-term planning and substantial differences in post-operative outcomes
+
+Healthcare facilities treating LGG patients should give high priority to the formal inclusion of trained professionals capable of designing and implementing adequate pre- and post-operative strategies. By addressing this challenge, it is possible to guide clinical interventions and close the gap between surgery and rehabilitation therapy
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Citation: Manso-Ortega, L, Bermudez, G, Pomposo, I, et al. Highlighting the lack of neuropsychologists and speech therapists in healthcare services towards an accurate (pre- and postoperative) cognitive assessment in low-grade glioma patients. Psychooncology. 2022; 31( 7): 1261- 1263. https://doi.org/10.1002/pon.5968
