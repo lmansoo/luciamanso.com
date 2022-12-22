@@ -88,7 +88,7 @@ author:
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Manso-Ortega+L&cauthor_id=35593038"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Lucia-Manso"
+  researchgate     : "Lucia-Manso"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lmansoo"
+  github           : "lmansoo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/luciamansoortega/"
+  linkedin         : "luciamansoortega/"
   orcid            : "https://orcid.org/0000-0001-8370-8351"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitter          : "https://twitter.com/lmanso_"
+  twitter          : "lmanso_"
   vine             :
   weibo            :
   xing             :
