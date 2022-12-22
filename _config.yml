@@ -84,7 +84,7 @@ author:
   avatar           : "profilepic.jpeg"
   bio              : "PhD candidate"
   location         : "San Sebastián,Spain"
-  employer         : "Basque Center on Cognition, Brain and Language"
+  employer         : "BCBL"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Manso-Ortega+L&cauthor_id=35593038"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  coorporate site  : "https://www.bcbl.eu/en/lucia-manso"
 
 # Reading Files
 include:
