@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Lucía Manso-Ortega"
   avatar           : "profilepic.jpeg"
   bio              : "PhD candidate"
-  location         : "Location"
+  location         : "San Sebastián,Spain"
   employer         : "Basque Center on Cognition, Brain and Language"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Manso-Ortega+L&cauthor_id=35593038"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -108,7 +108,6 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
   twitter          : "https://twitter.com/lmanso_"
   vine             :
   weibo            :
